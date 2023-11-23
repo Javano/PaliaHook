@@ -1,0 +1,7 @@
+D:/GitHub/PaliaHook/CMakeFiles/detours.dir
+D:/GitHub/PaliaHook/CMakeFiles/imgui.dir
+D:/GitHub/PaliaHook/CMakeFiles/RendererHook.dir
+D:/GitHub/PaliaHook/CMakeFiles/PaliaSDK.dir
+D:/GitHub/PaliaHook/CMakeFiles/PaliaHook.dir
+D:/GitHub/PaliaHook/CMakeFiles/ALL_BUILD.dir
+D:/GitHub/PaliaHook/CMakeFiles/ZERO_CHECK.dir
